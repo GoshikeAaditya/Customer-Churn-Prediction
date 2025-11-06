@@ -131,7 +131,7 @@ The developed framework serves as a scalable model that can be applied across in
 
 ## 👥 Contributors  
 **Team Members:**  
-- **G. Adhitya** – RA2211047010009  
+- **Aaditya Goshike** – RA2211047010009  
 - **M. Benarjee** – RA2211047010012  
 
 **Course:** 21AIC401T – *Inferential Statistics and Predictive Analysis*  
